@@ -1,0 +1,13 @@
+1: Download the file
+2: Extract the file
+3: Copy the shopping folder to htdocs
+4: Create databse named "shopping"
+5: Import the databas
+__________________________
+1: open local host
+2: enter "localhost/shopping" for user interface
+3: Enter "localhost/shopping/admin" to view admin page
+_________________________________
+
+admin name = admin
+password = Bilal_Sujan_Harsh
